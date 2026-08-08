@@ -8,7 +8,7 @@ You describe the edit. Your AI assistant plans the steps. Your own copy of Photo
 
 Editmamei is an MCP server that hands any MCP-compatible AI client (Claude Desktop, Cursor, Claude Code) a working photographer's toolkit inside Photoshop. So you can say *"make the sky more dramatic but keep the foreground natural"* instead of clicking through *Layer → New Adjustment Layer → Curves*.
 
-**Editmamei CE is source-available under FSL-1.1-MIT** — code lives at [github.com/editmamei/editmamei](https://github.com/editmamei/editmamei).
+**Editmamei CE is source-available under FSL-1.1-MIT.** The code lives at [github.com/editmamei/editmamei](https://github.com/editmamei/editmamei).
 
 ## Get started
 
