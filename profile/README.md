@@ -4,7 +4,7 @@
 
 *(Pronounced like* edamame*. Yes, the snack.)*
 
-You describe the edit. Your AI assistant plans the steps. Your own copy of Photoshop carries them out with its standard adjustment layers, masks, selections, and filters. The AI directs, Photoshop edits, and no generative model touches your pixels.
+You describe the edit. Your AI assistant plans the steps. Desktop Photoshop carries them out with its standard adjustment layers, masks, selections, and filters. The AI directs, Photoshop edits, and no generative model touches your pixels.
 
 Editmamei is an MCP server that hands any MCP-compatible AI client (Claude Desktop, Cursor, Claude Code) a working photographer's toolkit inside Photoshop. So you can say *"make the sky more dramatic but keep the foreground natural"* instead of clicking through *Layer → New Adjustment Layer → Curves*.
 
