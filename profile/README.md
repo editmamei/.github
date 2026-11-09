@@ -1,6 +1,6 @@
 # Editmamei
 
-**AI photo editing in Photoshop and GIMP.** Your AI decides the edit, the editor does the work, layer by layer with real tools.
+**AI photo editing in Photoshop and GIMP.** Let AI do the parts of the edit you don't want to, layer by layer with real tools, and keep the final touches for yourself.
 
 You describe the edit in your AI app. Editmamei hands it a working photographer's toolkit: adjustment layers, masks, selections and filters in desktop Photoshop or GIMP. No generative model touches your pixels, and you get back a layered file you can keep fine-tuning.
 
