@@ -1,29 +1,26 @@
 # Editmamei
 
-**Unlock Photoshop with natural-language photo editing.** AI orchestration, not generation.
+**AI photo editing in Photoshop and GIMP.** Your AI decides the edit, the editor does the work, layer by layer with real tools.
 
-*(Pronounced like* edamame*. Yes, the snack.)*
+You describe the edit in your AI app. Editmamei hands it a working photographer's toolkit: adjustment layers, masks, selections and filters in desktop Photoshop or GIMP. No generative model touches your pixels, and you get back a layered file you can keep fine-tuning.
 
-You describe the edit. Your AI assistant plans the steps. Desktop Photoshop carries them out with its standard adjustment layers, masks, selections, and filters. The AI directs, Photoshop edits, and no generative model touches your pixels.
+So you can say *"make the sky more dramatic but keep the foreground natural"* instead of clicking through *Layer → New Adjustment Layer → Curves*.
 
-Editmamei is an MCP server that hands any MCP-compatible AI client (Claude Desktop, Cursor, Claude Code) a working photographer's toolkit inside Photoshop. So you can say *"make the sky more dramatic but keep the foreground natural"* instead of clicking through *Layer → New Adjustment Layer → Curves*.
+## Two ways to use it
 
-**Editmamei CE is source-available under FSL-1.1-MIT.** The code lives at [github.com/editmamei/editmamei](https://github.com/editmamei/editmamei).
+- **Editmamei Desktop:** a desktop MCP server for Claude and other MCP-compatible AI apps, on Mac, Windows and Linux. Source-available under FSL-1.1-MIT at [editmamei/editmamei](https://github.com/editmamei/editmamei).
+- **Editmamei Connect:** the hosted version. Add it to Claude, ChatGPT or another AI app as a connector and edit from a browser or your phone, with nothing to install. [editmamei.com/connect](https://editmamei.com/connect)
 
 ## Get started
 
-- 🌐 **Website** — [editmamei.com](https://editmamei.com)
-- 📦 **Install** — `npm install -g editmamei && editmamei install`, or grab the one-click [`.mcpb` for Claude Desktop](https://github.com/editmamei/editmamei/releases/latest/download/editmamei.mcpb)
-- 📖 **Docs & getting started** — [editmamei/editmamei](https://github.com/editmamei/editmamei)
-- 💲 **Pricing & Pro features** — [editmamei.com/pricing](https://editmamei.com/pricing)
-- 🔒 **Privacy** — [what's collected, and how to switch it off](https://github.com/editmamei/editmamei/blob/dev/docs/privacy.md)
+- 🌐 **Website:** [editmamei.com](https://editmamei.com)
+- 📦 **Install:** the one-click [`.mcpb` for Claude Desktop](https://github.com/editmamei/editmamei/releases/latest/download/editmamei.mcpb), or `npm install -g editmamei` then `editmamei install`
+- 📖 **Docs:** [editmamei/editmamei](https://github.com/editmamei/editmamei)
+- 💲 **Pricing and Pro:** [editmamei.com/pricing](https://editmamei.com/pricing)
+- 🔒 **Privacy:** [what's collected, and how to switch it off](https://github.com/editmamei/editmamei/blob/dev/docs/privacy.md)
 
 ## Get help
 
-- 🐛 **Report a bug or request a feature** — [issue tracker](https://github.com/editmamei/editmamei/issues)
-- ✉️ **Account, billing, or license questions** — [support@editmamei.com](mailto:support@editmamei.com)
-- 🛡️ **Security disclosures** — [SECURITY.md](https://github.com/editmamei/editmamei/blob/dev/SECURITY.md) (please use a private advisory)
-
----
-
-*Pairs well with a layered PSD, a willing AI, and a small bowl of edamame.*
+- 🐛 **Bugs and feature requests:** [issue tracker](https://github.com/editmamei/editmamei/issues)
+- ✉️ **Account, billing or license questions:** [support@editmamei.com](mailto:support@editmamei.com)
+- 🛡️ **Security disclosures:** [SECURITY.md](https://github.com/editmamei/editmamei/blob/dev/SECURITY.md) (please use a private advisory)
